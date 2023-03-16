@@ -1,5 +1,5 @@
 - 👋 Selamlar, Sayfama hoşgeldiniz...
-- 👀 ilgi alanlarım java core,Spring boot, angular olup, geliştirmiş olduğum repolarıma bakabilirsiniz.. 
+- 👀 ilgi alanlarım java,Spring boot,Angular/React olup, geliştirmiş olduğum repolarıma bakabilirsiniz.. 
 - 🌱 Hala bu konular üzerine çalışmalarım devam etmektedir....
 - 💞️ Her türlü remote çalışma önerilerine açığımdır.
 - 📫 ysf.metu@gmail.com ... yazabilirsiniz..
