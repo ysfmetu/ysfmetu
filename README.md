@@ -18,7 +18,7 @@
 
 ### 🌐 Sosyal Medya & Bağlantılar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/senin-linkedin-kullanici-adin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusuf-ülkü-80380235)
 
 ---
 
